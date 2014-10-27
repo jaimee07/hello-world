@@ -1,1 +1,15 @@
 Yun ang ilalagay k.
+
+GUI Clients
+Git comes with built-in GUI tools (git-gui, gitk), but there are several third-party tools for users looking for a platform-specific experience.
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -5040.50     899.84  -5.602 1.72e-06 ***
+M             105.02      33.30   3.154  0.00305 ** 
+Ed            196.47      44.75   4.390 8.07e-05 ***
+Po1           115.02      13.75   8.363 2.56e-10 ***
+U2             89.37      40.91   2.185  0.03483 *  
+Ineq           67.65      13.94   4.855 1.88e-05 ***
+Prob        -3801.84    1528.10  -2.488  0.01711 *  
+---
